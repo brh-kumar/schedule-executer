@@ -1,0 +1,10 @@
+{
+  "agenda": {
+    "host":"127.0.0.1",
+    "port":27017,
+    "collection": "agendaJob",
+    "database":"myDb",
+    "taskCollection": "tasks",
+    "dataFetchURL": "http://localhost:3002/launch-campaign/"
+  },
+}

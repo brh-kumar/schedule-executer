@@ -1,0 +1,13 @@
+{
+  "name": "scheduler-job-executor",
+  "version": "1.0.0",
+  "main": "lib/agenda.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "agenda": "^0.8.1",
+    "request": "^2.72.0",
+    "winston": "^2.2.0"
+  }
+}
